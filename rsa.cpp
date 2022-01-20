@@ -6,7 +6,7 @@
 #include<msclr\marshal.h>
 #include<time.h>
 #defineDEBUG
-
+//test
 usingnamespacemsclr::interop;
 usingnamespace System;
 usingnamespaceSystem::Numerics;
